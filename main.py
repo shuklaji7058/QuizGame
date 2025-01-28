@@ -1,5 +1,5 @@
 import turtle
-import pandas
+import pandas # type: ignore
 
 screen = turtle.Screen()
 screen.title("INDIA state Game")
